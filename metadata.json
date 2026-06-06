@@ -1,0 +1,6 @@
+{
+  "name": "Denise Slide Portfolio",
+  "description": "Portfolio and interactive mockup platform for Denise, a professional presentation slides designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
